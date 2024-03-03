@@ -1,11 +1,25 @@
+
 body{
     background-color: black;
-}
-
-header{
     color: limegreen;
 }
 
 main{
     color: white;
+}
+
+li{
+    display: inline;
+    padding-right: 100px;
+}
+
+.Warning{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+}
+
+.logos{
+    height: 35px;
+    width: 35px;
 }
